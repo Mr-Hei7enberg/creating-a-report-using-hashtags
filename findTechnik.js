@@ -1,3 +1,5 @@
+var ss = SpreadsheetApp.getActiveSpreadsheet();
+
 function findTechnik(name){
   var summa = [];
   var mesto = [];
